@@ -4,5 +4,5 @@ image:
   tag: latest
   pullPolicy: Never
 
-nameOverride: ""
-fullnameOverride: ""
+nameOverride: "webhook"
+fullnameOverride: "webhook"
